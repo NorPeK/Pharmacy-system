@@ -1,0 +1,144 @@
+order id : 100
+Customer id : 9
+Customer Name : Khalaf jammel
+Product Id : 3
+Product Name : Caltrate
+Quantity : 1
+Total Price : 57
+Date : 2022/05/11 21:40
+----------------------
+order id : 101
+Customer id : 19
+Customer Name : Alva Durante
+Product Id : 9
+Product Name : Daraprim
+Quantity : 1
+Total Price : 222
+Date : 2022/05/13 14:38
+----------------------
+order id : 102
+Customer id : 9
+Customer Name : Khalaf jammel
+Product Id : 13
+Product Name : Methylphenidate
+Quantity : 2
+Total Price : 138
+Date : 2022/05/13 14:39
+----------------------
+order id : 103
+Customer id : 13
+Customer Name : Tel Molly
+Product Id : 2
+Product Name : Okacet
+Quantity : 3
+Total Price : 135
+Date : 2022/05/13 14:40
+----------------------
+order id : 104
+Customer id : 7
+Customer Name : Aminah Mahdi
+Product Id : 5
+Product Name : Wild
+Quantity : 2
+Total Price : 34
+Date : 2022/05/13 14:41
+----------------------
+order id : 105
+Customer id : 24
+Customer Name : Rononoa Zoro
+Product Id : 5
+Product Name : Wild
+Quantity : 3
+Total Price : 51
+Date : 2022/05/13 15:10
+----------------------
+order id : 106
+Customer id : 4
+Customer Name : Tont Stark
+Product Id : 10
+Product Name : Revital
+Quantity : 2
+Total Price : 446
+Date : 2022/05/13 21:01
+----------------------
+order id : 107
+Customer id : 4
+Customer Name : Tont Stark
+Product Id : 32
+Product Name : Codeine  
+Quantity : 1
+Total Price : 90
+Date : 2022/05/13 21:01
+----------------------
+order id : 108
+Customer id : 17
+Customer Name : Gergina Katee
+Product Id : 4
+Product Name : ChapStick Lip
+Quantity : 5
+Total Price : 245
+Date : 2022/05/13 21:02
+----------------------
+order id : 109
+Customer id : 21
+Customer Name : Rylan Goff
+Product Id : 22
+Product Name : Methylphenidate
+Quantity : 6
+Total Price : 414
+Date : 2022/05/13 21:07
+----------------------
+order id : 110
+Customer id : 25
+Customer Name : Marco Vanbasten
+Product Id : 3
+Product Name : Caltrate
+Quantity : 6
+Total Price : 342
+Date : 2022/05/13 21:08
+----------------------
+order id : 111
+Customer id : 25
+Customer Name : Marco Vanbasten
+Product Id : 1
+Product Name : Imatib
+Quantity : 2
+Total Price : 120
+Date : 2022/05/13 21:08
+----------------------
+order id : 112
+Customer id : 9
+Customer Name : Khalaf jammel
+Product Id : 4
+Product Name : ChapStick Lip
+Quantity : 1
+Total Price : 49
+Date : 2022/05/23 07:47
+----------------------
+order id : 113
+Customer id : 9
+Customer Name : Khalaf jammel
+Product Id : 2
+Product Name : Okacet
+Quantity : 4
+Total Price : 180
+Date : 2022/05/23 09:38
+----------------------
+order id : 114
+Customer id : 9
+Customer Name : Khalaf jammel
+Product Id : 6
+Product Name : Dazolik 50s
+Quantity : 5
+Total Price : 1660
+Date : 2022/05/23 09:38
+----------------------
+order id : 115
+Customer id : 24
+Customer Name : Rononoa Zoro
+Product Id : 5
+Product Name : Wild
+Quantity : 3
+Total Price : 51
+Date : 2022/12/25 11:18
+----------------------

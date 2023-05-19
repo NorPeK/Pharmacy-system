@@ -1,0 +1,18 @@
+order id : 105
+Customer id : 24
+Customer Name : Rononoa Zoro
+Product Id : 5
+Product Name : Wild
+Quantity : 3
+Total Price : 51
+Date : 2022/05/13 15:10
+----------------------
+order id : 115
+Customer id : 24
+Customer Name : Rononoa Zoro
+Product Id : 5
+Product Name : Wild
+Quantity : 3
+Total Price : 51
+Date : 2022/12/25 11:18
+----------------------
